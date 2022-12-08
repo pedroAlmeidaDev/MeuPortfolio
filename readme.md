@@ -1,4 +1,4 @@
 # START ▶
 <hr>
-<a><img height="300"  width="300" src="dev.gif"/><img height="300" width="300" src="boasVindas.gif"/></a>
+<p><img height="360em"  width="320" src="dev.gif"/><img height="360em" width="320" src="boasVindas.gif"/></a></p>
 
