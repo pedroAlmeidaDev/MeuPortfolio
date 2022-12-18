@@ -30,7 +30,7 @@ h4,
 h5,
 h6 {
   font-family: "Poppins", sans-serif;
-  color: #2c4964;
+  color: #0e626d;
 }
 
 /*--------------------------------------------------------------
@@ -1554,6 +1554,7 @@ section {
 }
 
 #footer .footer-top h4 {
+  color: #fff;
   font-size: 16px;
   font-weight: bold;
   position: relative;
