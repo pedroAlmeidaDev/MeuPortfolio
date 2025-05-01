@@ -972,6 +972,10 @@ section {
   position: relative;
   overflow: hidden;
   z-index: 1;
+  border: 3px solid #6e05e6;
+  border-radius: 12px;
+  box-shadow: inset 0 0 10px rgba(0,0,0,0.3);
+  padding: 16px;
 }
 
 .portfolio .portfolio-wrap::before {
